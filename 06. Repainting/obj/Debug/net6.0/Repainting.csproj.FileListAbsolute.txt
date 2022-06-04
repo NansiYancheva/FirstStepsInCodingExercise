@@ -1,0 +1,15 @@
+C:\Visual Studio\Exercise06\Repainting\bin\Debug\net6.0\Repainting.exe
+C:\Visual Studio\Exercise06\Repainting\bin\Debug\net6.0\Repainting.deps.json
+C:\Visual Studio\Exercise06\Repainting\bin\Debug\net6.0\Repainting.runtimeconfig.json
+C:\Visual Studio\Exercise06\Repainting\bin\Debug\net6.0\Repainting.dll
+C:\Visual Studio\Exercise06\Repainting\bin\Debug\net6.0\ref\Repainting.dll
+C:\Visual Studio\Exercise06\Repainting\bin\Debug\net6.0\Repainting.pdb
+C:\Visual Studio\Exercise06\Repainting\obj\Debug\net6.0\Repainting.csproj.AssemblyReference.cache
+C:\Visual Studio\Exercise06\Repainting\obj\Debug\net6.0\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Exercise06\Repainting\obj\Debug\net6.0\Repainting.AssemblyInfoInputs.cache
+C:\Visual Studio\Exercise06\Repainting\obj\Debug\net6.0\Repainting.AssemblyInfo.cs
+C:\Visual Studio\Exercise06\Repainting\obj\Debug\net6.0\Repainting.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Exercise06\Repainting\obj\Debug\net6.0\Repainting.dll
+C:\Visual Studio\Exercise06\Repainting\obj\Debug\net6.0\ref\Repainting.dll
+C:\Visual Studio\Exercise06\Repainting\obj\Debug\net6.0\Repainting.pdb
+C:\Visual Studio\Exercise06\Repainting\obj\Debug\net6.0\Repainting.genruntimeconfig.cache

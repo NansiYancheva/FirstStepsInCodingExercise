@@ -1,0 +1,14 @@
+C:\Visual Studio\Exercise06\FishTank\bin\Debug\net6.0\FishTank.exe
+C:\Visual Studio\Exercise06\FishTank\bin\Debug\net6.0\FishTank.deps.json
+C:\Visual Studio\Exercise06\FishTank\bin\Debug\net6.0\FishTank.runtimeconfig.json
+C:\Visual Studio\Exercise06\FishTank\bin\Debug\net6.0\FishTank.dll
+C:\Visual Studio\Exercise06\FishTank\bin\Debug\net6.0\ref\FishTank.dll
+C:\Visual Studio\Exercise06\FishTank\bin\Debug\net6.0\FishTank.pdb
+C:\Visual Studio\Exercise06\FishTank\obj\Debug\net6.0\FishTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Exercise06\FishTank\obj\Debug\net6.0\FishTank.AssemblyInfoInputs.cache
+C:\Visual Studio\Exercise06\FishTank\obj\Debug\net6.0\FishTank.AssemblyInfo.cs
+C:\Visual Studio\Exercise06\FishTank\obj\Debug\net6.0\FishTank.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Exercise06\FishTank\obj\Debug\net6.0\FishTank.dll
+C:\Visual Studio\Exercise06\FishTank\obj\Debug\net6.0\ref\FishTank.dll
+C:\Visual Studio\Exercise06\FishTank\obj\Debug\net6.0\FishTank.pdb
+C:\Visual Studio\Exercise06\FishTank\obj\Debug\net6.0\FishTank.genruntimeconfig.cache

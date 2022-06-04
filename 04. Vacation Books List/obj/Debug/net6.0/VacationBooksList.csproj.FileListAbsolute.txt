@@ -1,0 +1,15 @@
+C:\Visual Studio\Exercise06\VacationBooksList\bin\Debug\net6.0\VacationBooksList.exe
+C:\Visual Studio\Exercise06\VacationBooksList\bin\Debug\net6.0\VacationBooksList.deps.json
+C:\Visual Studio\Exercise06\VacationBooksList\bin\Debug\net6.0\VacationBooksList.runtimeconfig.json
+C:\Visual Studio\Exercise06\VacationBooksList\bin\Debug\net6.0\VacationBooksList.dll
+C:\Visual Studio\Exercise06\VacationBooksList\bin\Debug\net6.0\ref\VacationBooksList.dll
+C:\Visual Studio\Exercise06\VacationBooksList\bin\Debug\net6.0\VacationBooksList.pdb
+C:\Visual Studio\Exercise06\VacationBooksList\obj\Debug\net6.0\VacationBooksList.csproj.AssemblyReference.cache
+C:\Visual Studio\Exercise06\VacationBooksList\obj\Debug\net6.0\VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Exercise06\VacationBooksList\obj\Debug\net6.0\VacationBooksList.AssemblyInfoInputs.cache
+C:\Visual Studio\Exercise06\VacationBooksList\obj\Debug\net6.0\VacationBooksList.AssemblyInfo.cs
+C:\Visual Studio\Exercise06\VacationBooksList\obj\Debug\net6.0\VacationBooksList.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Exercise06\VacationBooksList\obj\Debug\net6.0\VacationBooksList.dll
+C:\Visual Studio\Exercise06\VacationBooksList\obj\Debug\net6.0\ref\VacationBooksList.dll
+C:\Visual Studio\Exercise06\VacationBooksList\obj\Debug\net6.0\VacationBooksList.pdb
+C:\Visual Studio\Exercise06\VacationBooksList\obj\Debug\net6.0\VacationBooksList.genruntimeconfig.cache

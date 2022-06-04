@@ -1,0 +1,14 @@
+C:\Visual Studio\Exercise06\FoodDelivery\bin\Debug\net6.0\FoodDelivery.exe
+C:\Visual Studio\Exercise06\FoodDelivery\bin\Debug\net6.0\FoodDelivery.deps.json
+C:\Visual Studio\Exercise06\FoodDelivery\bin\Debug\net6.0\FoodDelivery.runtimeconfig.json
+C:\Visual Studio\Exercise06\FoodDelivery\bin\Debug\net6.0\FoodDelivery.dll
+C:\Visual Studio\Exercise06\FoodDelivery\bin\Debug\net6.0\ref\FoodDelivery.dll
+C:\Visual Studio\Exercise06\FoodDelivery\bin\Debug\net6.0\FoodDelivery.pdb
+C:\Visual Studio\Exercise06\FoodDelivery\obj\Debug\net6.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Exercise06\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Visual Studio\Exercise06\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfo.cs
+C:\Visual Studio\Exercise06\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Exercise06\FoodDelivery\obj\Debug\net6.0\FoodDelivery.dll
+C:\Visual Studio\Exercise06\FoodDelivery\obj\Debug\net6.0\ref\FoodDelivery.dll
+C:\Visual Studio\Exercise06\FoodDelivery\obj\Debug\net6.0\FoodDelivery.pdb
+C:\Visual Studio\Exercise06\FoodDelivery\obj\Debug\net6.0\FoodDelivery.genruntimeconfig.cache

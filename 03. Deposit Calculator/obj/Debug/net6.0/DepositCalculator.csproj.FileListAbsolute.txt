@@ -1,0 +1,14 @@
+C:\Visual Studio\Exercise06\DepositCalculator\bin\Debug\net6.0\DepositCalculator.exe
+C:\Visual Studio\Exercise06\DepositCalculator\bin\Debug\net6.0\DepositCalculator.deps.json
+C:\Visual Studio\Exercise06\DepositCalculator\bin\Debug\net6.0\DepositCalculator.runtimeconfig.json
+C:\Visual Studio\Exercise06\DepositCalculator\bin\Debug\net6.0\DepositCalculator.dll
+C:\Visual Studio\Exercise06\DepositCalculator\bin\Debug\net6.0\ref\DepositCalculator.dll
+C:\Visual Studio\Exercise06\DepositCalculator\bin\Debug\net6.0\DepositCalculator.pdb
+C:\Visual Studio\Exercise06\DepositCalculator\obj\Debug\net6.0\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Exercise06\DepositCalculator\obj\Debug\net6.0\DepositCalculator.AssemblyInfoInputs.cache
+C:\Visual Studio\Exercise06\DepositCalculator\obj\Debug\net6.0\DepositCalculator.AssemblyInfo.cs
+C:\Visual Studio\Exercise06\DepositCalculator\obj\Debug\net6.0\DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Exercise06\DepositCalculator\obj\Debug\net6.0\DepositCalculator.dll
+C:\Visual Studio\Exercise06\DepositCalculator\obj\Debug\net6.0\ref\DepositCalculator.dll
+C:\Visual Studio\Exercise06\DepositCalculator\obj\Debug\net6.0\DepositCalculator.pdb
+C:\Visual Studio\Exercise06\DepositCalculator\obj\Debug\net6.0\DepositCalculator.genruntimeconfig.cache

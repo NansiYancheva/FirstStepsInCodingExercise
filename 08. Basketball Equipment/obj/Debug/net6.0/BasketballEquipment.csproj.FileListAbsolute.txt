@@ -1,0 +1,15 @@
+C:\Visual Studio\Exercise06\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.exe
+C:\Visual Studio\Exercise06\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.deps.json
+C:\Visual Studio\Exercise06\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.runtimeconfig.json
+C:\Visual Studio\Exercise06\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.dll
+C:\Visual Studio\Exercise06\BasketballEquipment\bin\Debug\net6.0\ref\BasketballEquipment.dll
+C:\Visual Studio\Exercise06\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.pdb
+C:\Visual Studio\Exercise06\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.csproj.AssemblyReference.cache
+C:\Visual Studio\Exercise06\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Exercise06\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.AssemblyInfoInputs.cache
+C:\Visual Studio\Exercise06\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.AssemblyInfo.cs
+C:\Visual Studio\Exercise06\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Exercise06\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.dll
+C:\Visual Studio\Exercise06\BasketballEquipment\obj\Debug\net6.0\ref\BasketballEquipment.dll
+C:\Visual Studio\Exercise06\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.pdb
+C:\Visual Studio\Exercise06\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.genruntimeconfig.cache

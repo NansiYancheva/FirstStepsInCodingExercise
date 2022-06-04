@@ -1,0 +1,14 @@
+C:\Visual Studio\USDToBGN\USDToBGN\obj\Debug\net6.0\USDToBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\USDToBGN\USDToBGN\obj\Debug\net6.0\USDToBGN.AssemblyInfoInputs.cache
+C:\Visual Studio\USDToBGN\USDToBGN\obj\Debug\net6.0\USDToBGN.AssemblyInfo.cs
+C:\Visual Studio\USDToBGN\USDToBGN\obj\Debug\net6.0\USDToBGN.csproj.CoreCompileInputs.cache
+C:\Visual Studio\USDToBGN\USDToBGN\bin\Debug\net6.0\USDToBGN.exe
+C:\Visual Studio\USDToBGN\USDToBGN\bin\Debug\net6.0\USDToBGN.deps.json
+C:\Visual Studio\USDToBGN\USDToBGN\bin\Debug\net6.0\USDToBGN.runtimeconfig.json
+C:\Visual Studio\USDToBGN\USDToBGN\bin\Debug\net6.0\USDToBGN.dll
+C:\Visual Studio\USDToBGN\USDToBGN\bin\Debug\net6.0\ref\USDToBGN.dll
+C:\Visual Studio\USDToBGN\USDToBGN\bin\Debug\net6.0\USDToBGN.pdb
+C:\Visual Studio\USDToBGN\USDToBGN\obj\Debug\net6.0\USDToBGN.dll
+C:\Visual Studio\USDToBGN\USDToBGN\obj\Debug\net6.0\ref\USDToBGN.dll
+C:\Visual Studio\USDToBGN\USDToBGN\obj\Debug\net6.0\USDToBGN.pdb
+C:\Visual Studio\USDToBGN\USDToBGN\obj\Debug\net6.0\USDToBGN.genruntimeconfig.cache

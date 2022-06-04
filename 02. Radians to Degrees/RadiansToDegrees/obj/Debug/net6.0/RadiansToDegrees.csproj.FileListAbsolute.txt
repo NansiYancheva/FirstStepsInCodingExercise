@@ -1,0 +1,15 @@
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\obj\Debug\net6.0\RadiansToDegrees.csproj.AssemblyReference.cache
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\obj\Debug\net6.0\RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\obj\Debug\net6.0\RadiansToDegrees.AssemblyInfoInputs.cache
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\obj\Debug\net6.0\RadiansToDegrees.AssemblyInfo.cs
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\obj\Debug\net6.0\RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\bin\Debug\net6.0\RadiansToDegrees.exe
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\bin\Debug\net6.0\RadiansToDegrees.deps.json
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\bin\Debug\net6.0\RadiansToDegrees.runtimeconfig.json
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\bin\Debug\net6.0\RadiansToDegrees.dll
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\bin\Debug\net6.0\ref\RadiansToDegrees.dll
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\bin\Debug\net6.0\RadiansToDegrees.pdb
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\obj\Debug\net6.0\RadiansToDegrees.dll
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\obj\Debug\net6.0\ref\RadiansToDegrees.dll
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\obj\Debug\net6.0\RadiansToDegrees.pdb
+C:\Visual Studio\RadiansToDegrees\RadiansToDegrees\obj\Debug\net6.0\RadiansToDegrees.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Visual Studio\Exercise06\SuppliesForSchool\bin\Debug\net6.0\SuppliesForSchool.exe
+C:\Visual Studio\Exercise06\SuppliesForSchool\bin\Debug\net6.0\SuppliesForSchool.deps.json
+C:\Visual Studio\Exercise06\SuppliesForSchool\bin\Debug\net6.0\SuppliesForSchool.runtimeconfig.json
+C:\Visual Studio\Exercise06\SuppliesForSchool\bin\Debug\net6.0\SuppliesForSchool.dll
+C:\Visual Studio\Exercise06\SuppliesForSchool\bin\Debug\net6.0\ref\SuppliesForSchool.dll
+C:\Visual Studio\Exercise06\SuppliesForSchool\bin\Debug\net6.0\SuppliesForSchool.pdb
+C:\Visual Studio\Exercise06\SuppliesForSchool\obj\Debug\net6.0\SuppliesForSchool.csproj.AssemblyReference.cache
+C:\Visual Studio\Exercise06\SuppliesForSchool\obj\Debug\net6.0\SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Exercise06\SuppliesForSchool\obj\Debug\net6.0\SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Visual Studio\Exercise06\SuppliesForSchool\obj\Debug\net6.0\SuppliesForSchool.AssemblyInfo.cs
+C:\Visual Studio\Exercise06\SuppliesForSchool\obj\Debug\net6.0\SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Exercise06\SuppliesForSchool\obj\Debug\net6.0\SuppliesForSchool.dll
+C:\Visual Studio\Exercise06\SuppliesForSchool\obj\Debug\net6.0\ref\SuppliesForSchool.dll
+C:\Visual Studio\Exercise06\SuppliesForSchool\obj\Debug\net6.0\SuppliesForSchool.pdb
+C:\Visual Studio\Exercise06\SuppliesForSchool\obj\Debug\net6.0\SuppliesForSchool.genruntimeconfig.cache
